@@ -6,3 +6,4 @@ Not convoluted edit.
 =======
 Convoluted branch edit.
 >>>>>>> new
+lol jakies zmiany weszly dziwne.
