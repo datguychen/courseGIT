@@ -1,4 +1,8 @@
 123
 Another line.
 New brach edit.
+<<<<<<< HEAD
 Not convoluted edit.
+=======
+Convoluted branch edit.
+>>>>>>> new
